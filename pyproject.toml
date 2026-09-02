@@ -1,0 +1,10 @@
+[project]
+name = "comfyui-wildcard"
+version = "1.0.0"
+description = "Interactive Simple Wildcard Combinator for ComfyUI"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Community" }]
+
+[project.urls]
+Homepage = "https://github.com"
